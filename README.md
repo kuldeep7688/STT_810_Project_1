@@ -1,5 +1,5 @@
 # Statistics 810 Project 1
-- This was the mid-semester Statistics 810 project. IT involced working on data exploration and simulation using R. 
+- This was the mid-semester Statistics 810 project. It involved working on data exploration and simulation using R. 
 
 ## In this project we worked on the below tasks:
 ### Preferential Attachment Model
