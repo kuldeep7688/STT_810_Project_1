@@ -9,7 +9,7 @@ has.
 - We wrote the simulation with intitialization using different parameters.
 - We also analysed the simulations to discover some interesting patterns.   
 ### NNDB Dataset
-- Graphical Data Exploration
+- Exploratory Data Analysis
 
 
 ## Languages Used
